@@ -1,0 +1,32 @@
+.movieimg {
+	height: 350px;
+	width: 350px;
+}
+table {
+	border: 2px solid darkslategray;
+	width: 350px;
+	height: 350%;
+}
+.tablebody {
+	border: 2px solid darkslategray;
+}
+thead {
+	border: 3px solid black;
+}
+.heading {
+	border: 3px solid black;
+}
+iframe {
+	border: 3px solid brown;
+	padding: 35px 35px;
+	background-color: brown;
+}
+body {
+	padding: 30px;
+	background-color: lightgray;
+}
+h1 {
+	font-family: "Britannic";
+	font-size: 60px;
+
+}
